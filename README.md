@@ -52,7 +52,7 @@ Repositório de um projeto que criei durante um curso. Seu objetivo é criar um 
 </div>
 
 <div align="left"> 
-   <strong>02. Utilização da memória do celular para guardar dados (cache).</strong>
+   <strong>02. Utilizar a memória do celular para guardar dados (cache).</strong>
 </div>
 
 <div align="left"> 
@@ -60,7 +60,7 @@ Repositório de um projeto que criei durante um curso. Seu objetivo é criar um 
 </div>
 
 <div align="left"> 
-   <strong>04. Manipulação de dados entre páginas.</strong>
+   <strong>04. Manipular dados entre páginas.</strong>
 
 <div align="left"> 
    <strong>05. Padrão de projeto MVC.</strong>
