@@ -23,7 +23,7 @@ Repositório de um projeto que criei para aprimorar meus conhecimentos durante u
 </div>
 
 <div align="left"> 
-   <strong>04. Details Page:</strong> Tela que exibe os dados especificos de um post.
+   <strong>04. Details Page:</strong> Tela que exibe os dados específicos de um post.
 </div>
 
 <br/>
@@ -77,6 +77,10 @@ Repositório de um projeto que criei para aprimorar meus conhecimentos durante u
 <br />
 
 <div align="center">
+
+https://github.com/LucasTKP/Login-Flutter/assets/101598532/2a749cf7-d921-4c19-8341-7801fb596573
+
+
 
 
 </div>
