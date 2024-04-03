@@ -32,7 +32,7 @@ Repositório de um projeto que criei para aprimorar meus conhecimentos durante u
   <strong> 💼 Tecnologias utilizadas: </strong>
 </div>
 
-<table align="left">
+<table align="center">
  <tr>
   <td>Flutter: 3.19.5</td>  
   <td>Shared Preferences: 2.2.2</td>
