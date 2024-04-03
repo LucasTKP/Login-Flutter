@@ -1,6 +1,6 @@
 <h1 align="center">Sistema de Login</h1>
 <div>
-Repositório de um projeto que criei para aprimorar meus conhecimentos durante um curso que fiz. Seu objetivo é criar um sistema de login e consumir uma api.
+Repositório de um projeto que criei durante um curso. Seu objetivo é criar um sistema de login e consumir uma api.
 </div>  
 
 
