@@ -2,9 +2,10 @@
 <div>
 Repositório de um projeto que criei para aprimorar meus conhecimentos durante um curso que fiz. Seu objetivo é criar um sistema de login e consumir uma api.
 </div>  
-  
 
-  #
+
+#
+
 <div align="left"> 
   <strong>📚 Telas do App:</strong>
 </div>
@@ -25,10 +26,22 @@ Repositório de um projeto que criei para aprimorar meus conhecimentos durante u
    <strong>04. Details Page:</strong> Tela que exibe os dados especificos de um post.
 </div>
 
-
-
 <br/>
+
+<div align="left">  
+  <strong> 💼 Tecnologias utilizadas: </strong>
+</div>
+
+<table align="center">
+ <tr>
+  <td>Flutter: 3.19.5</td>  
+  <td>Shared Preferences: 2.2.2</td>
+  <td>Dio: 5.4.1</td>
+  <td>Api: https://jsonplaceholder.typicode.com</td>
+ </tr>
+</table>
     
+<br/>
 
 <div align="left"> 
   <strong>📚 Aprendizados:</strong>
@@ -42,19 +55,16 @@ Repositório de um projeto que criei para aprimorar meus conhecimentos durante u
    <strong>02. Utilização da memória do celular para guardar dados (cache).</strong>
 </div>
 
-
 <div align="left"> 
    <strong>03. Boas práticas para consumir uma api.</strong>
 </div>
 
 <div align="left"> 
-   <strong>04. Manipulação de dados entre páginas.</strong> 
-
+   <strong>04. Manipulação de dados entre páginas.</strong>
 
 <div align="left"> 
    <strong>05. Padrão de projeto MVC.</strong>
 </div>
-
 
 <div align="left"> 
    <strong>06. Criar widgets customizados.</strong>
@@ -67,12 +77,6 @@ Repositório de um projeto que criei para aprimorar meus conhecimentos durante u
 <br />
 
 <div align="center">
-  
-
-
 
 
 </div>
-
-
-
